@@ -12,7 +12,7 @@ apps.use(express.static('public'))
     '21 savage':{
         'stageName':'21 savage',
          'birthName': 'Shéyaa Bin Abraham-Joseph',
-         'img' : '"https://images.unsplash.com/photo-1619801551430-f2a28c1ae922?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8MjElMjBzYXZhZ2V8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60'
+         'img' : 'https://images.unsplash.com/photo-1619801551430-f2a28c1ae922?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8MjElMjBzYXZhZ2V8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60'
     },
     'drake': {
         'stageName': 'Drake',
