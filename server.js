@@ -6,6 +6,7 @@ const PORT =  3344
  
 apps.use(cors())
 
+apps.use(express.static('public'))
 
  const rappers = {
     '21 savage':{
