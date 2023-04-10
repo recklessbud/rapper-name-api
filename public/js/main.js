@@ -1,7 +1,7 @@
 // alert('abenaa')
 // https://dark-puce-turkey-tutu.cyclic.app
 
-
+console.log('stoner')
 
   const btn = document.querySelector("#btn-sumbit");
      btn.addEventListener('click', rapperApi)
