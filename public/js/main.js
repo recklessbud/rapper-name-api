@@ -9,7 +9,7 @@
        async function rapperApi() {
         const value = document.querySelector('#name').value;
         try{
-         const response = await fetch(`https://dark-puce-turkey-tutu.cyclic.app/api/${value}`)
+         const response = await fetch(`localhost:3344/api/${value}`)
           const data = await response.json()
 
           console.log(data);
