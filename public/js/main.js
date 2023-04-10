@@ -2,9 +2,7 @@
 // https://dark-puce-turkey-tutu.cyclic.app
 
 console.log('stoner')
-
-  const btn = document.querySelector("#btn-sumbit");
-     btn.addEventListener('click', rapperApi)
+   document.querySelector('button').addEventListener('click', rapperApi)
 
        async function rapperApi() {
         const value = document.querySelector('#name').value;
